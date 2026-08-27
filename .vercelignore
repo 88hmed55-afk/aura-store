@@ -1,1 +1,7 @@
 /vendor
+/node_modules
+/.env*
+/storage
+/bootstrap/cache/*.php
+/tests
+/database/database.sqlite
